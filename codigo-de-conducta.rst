@@ -51,7 +51,7 @@ Ejemplos de comportamiento inaceptable:
 
 * El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones
   sexuales de cualquier tipo.
-* Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques
+* Comentarios despectivos (*trolling*), insultantes o derogatorios, y ataques
   personales o políticos.
 * Bromas racistas, sexistas o excluyentes.
 * El acoso en público o privado.
@@ -77,7 +77,7 @@ comportamiento, hasta la expulsión de una persona de un evento o del grupo, sin
 derecho a reclamo.
 
 La administración del grupo tendrá el derecho y la responsabilidad de eliminar,
-editar o rechazar mensajes, comentarios, _commits_, código, ediciones de páginas
+editar o rechazar mensajes, comentarios, *commits*, código, ediciones de páginas
 de wiki, tickets y otras contribuciones que no se alineen con este código de
 conducta, y comunicará las razones para sus decisiones de moderación cuando sea
 apropiado.
