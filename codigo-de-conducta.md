@@ -85,7 +85,7 @@ decisiones de moderación cuando sea apropiado.
 
 De manera provisional mientras la comunidad decide sus propios mecanismos,
 los casos de comportamiento abusivo, acosador o inaceptable de otro modo
-podrán ser denunciados a las personas con el rol "Organización".
+podrán ser denunciados a las personas con el rol "Coordinación".
 
 Todas las personas administradoras del grupo están obligadas a respetar
 la privacidad y la seguridad de quienes denuncien incidentes.
